@@ -1,0 +1,7 @@
+db_params:
+  username: net_http_blogs
+  password: tmp_pwd
+  address: 127.0.0.1:3306
+  database: net_http_blogs
+  charset: utf8
+server_address: 0.0.0.0:8080
